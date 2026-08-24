@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Samuel Silva de Andrade
 
-**Computer Science Student** @ UNIFEI | **Itajubá-MG, Brasil** | 🚀 Paixão por sistemas embarcados, jogos retro e desenvolvimento de baixo nível
+**Estudante de Ciências da Computação** @ UNIFEI | **Itajubá-MG, Brasil** | 🚀 Paixão por sistemas embarcados, jogos retro e desenvolvimento de baixo nível
 
 ## 🛠️ Tecnologias & Ferramentas
 ![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
