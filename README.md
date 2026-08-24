@@ -1,39 +1,65 @@
-# 👋 Olá, eu sou Samuel Silva de Andrade
+# Olá, eu sou Samuel Silva de Andrade
 
-**Estudante de Ciências da Computação** @ UNIFEI | **Itajubá-MG, Brasil** | 🚀 Paixão por sistemas embarcados, jogos retro e desenvolvimento de baixo nível
+**Estudante de Ciência da Computação @ UNIFEI** | Itajubá-MG, Brasil
 
-## 🛠️ Tecnologias & Ferramentas
-![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-F25511?style=for-the-badge&logo=espressif&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-E60012?style=for-the-badge&logo=platformio&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+Busco oportunidades de estágio em **desenvolvimento de software**, com interesse em backend, full-stack e sistemas embarcados. Gosto de aprender construindo projetos práticos, desde APIs e aplicações web até sistemas que interagem diretamente com hardware.
 
-## 🎮 Projetos em Destaque
+## Tecnologias
+
+### Desenvolvimento de Software
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Sistemas Embarcados
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6C37?style=for-the-badge\&logo=platformio\&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+## Projetos em Destaque
 
 ### [Fliperama](https://github.com/samuel7kye/Fliperama)
-Sistema de jogos retrô desenvolvido para ESP32 com matriz de LEDs 7x7. Implementa clássicos de fliperama usando programação de baixo nível em C/C++, com foco em:
-- Computação gráfica básica (renderização de sprites, detecção de colisão)
-- Gerenciamento de estados de jogo
-- Temporização assíncrona e controle preciso de hardware
-- Otimização de memória para microcontroladores
 
-**Jogos implementados:** Snake, Tetris, Pong, Space Invaders e mais!
+Sistema de jogos retrô desenvolvido para **ESP32** com matriz de LEDs 7x7, utilizando C/C++ e conceitos de sistemas embarcados.
 
-### Outras contribuições
-- [TriagemDigital_TrabPI](https://github.com/Cheeshiiree/TriagemDigital_TrabPI) - Sistema de triagem digital em Python
-- [Sistema-Agendamento-Salao-Beleza](https://github.com/alvarovaleriolima/Sistema-Agendamento-Salao-Beleza) - Agendamento para salões em TypeScript
+* Computação gráfica básica e renderização em matriz de LEDs
+* Detecção de colisões e lógica de jogos
+* Máquina de estados para controle do fluxo da aplicação
+* Game loop e temporização não bloqueante
+* Manipulação de hardware e entradas físicas
+* Otimização de memória para microcontroladores
 
-## 📫 Vamos nos conectar
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuel7kye)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuel7kye)
+**Jogos implementados:** Snake, Tetris, Pong e Space Invaders.
 
-## 💡 Sobre mim
-Estudante de Ciências da Computação na UNIFEI, sempre buscando aprender através de projetos práticos. Acredito que a melhor forma de entender sistemas é construindo-os do zero - desde o nível de hardware até a interface do usuário. Quando não estou codando, você pode me encontrar jogando jogos retro ou explorando novas eletrônicas para meus próximos projetos.
+### [Sistema de Agendamento para Salão de Beleza](https://github.com/alvarovaleriolima/Sistema-Agendamento-Salao-Beleza)
 
-*"O melhor jeito de prever o futuro é inventá-lo." - Alan Kay*
+Aplicação web desenvolvida com **Java/Spring Boot** no backend e **React/TypeScript** no frontend, com persistência de dados e documentação de API.
+
+### [Triagem Digital](https://github.com/Cheeshiiree/TriagemDigital_TrabPI)
+
+Projeto acadêmico de uma aplicação de triagem digital desenvolvida em **Python**, voltada à organização e classificação de informações para atendimento.
+
+## Atualmente
+
+* Estudante de Ciência da Computação na UNIFEI
+* Desenvolvendo projetos para aprofundar conhecimentos em backend, frontend e sistemas embarcados
+* Buscando minha primeira oportunidade profissional na área de desenvolvimento de software
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuel-andrade-7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/samuel7kye)
 
 ---
 
-⭐️ Este README é atualizado constantemente conforme novos projetos e aprendizados surgem. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou trocas de ideias!
+*Aprendendo através de projetos práticos e buscando transformar conhecimento em software funcional.*
