@@ -1,4 +1,4 @@
-# Olá, eu sou Samuel Silva de Andrade
+[# Olá, eu sou Samuel Silva de Andrade
 
 **Estudante de Ciência da Computação @ UNIFEI** | Itajubá-MG, Brasil
 
@@ -63,3 +63,4 @@ Projeto acadêmico de uma aplicação de triagem digital desenvolvida em **Pytho
 ---
 
 *Aprendendo através de projetos práticos e buscando transformar conhecimento em software funcional.*
+](https://www.linkedin.com/in/samuel-andrade7/)
