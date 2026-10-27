@@ -84,7 +84,7 @@ Tecnologias: Next.js | React | Vercel | Segurança
 Tecnologias: HTML5 | CSS3 | JavaScript | Vercel
 * Portfólio web moderno e responsivo para apresentar projetos, habilidades e contato de Sol Duarte.
 * Design adaptado para celular, tablet e desktop, com galeria de projetos e redes sociais.
-* Acesse online: https://solfazarte.art.br
+* Acesse online: https://solduarte.art.br
 
 
 
