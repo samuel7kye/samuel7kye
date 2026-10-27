@@ -1,4 +1,3 @@
-markdown
 Olá, eu sou o Samuel Silva de Andrade 👋
 
 LinkedIn
