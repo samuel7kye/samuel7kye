@@ -25,7 +25,7 @@ Minha experiência envolve o desenvolvimento de aplicações web, a manutenção
 
 - 🎓 **Educação:** Ciência da Computação — UNIFEI
 - 📍 **Localização:** Itajubá, MG — Brasil
-- 🎯 **Interesses:** Backend, Full-Stack, Sistemas Embarcados e IoT
+- 🎯 **Interesses:** Full-Stack, Sistemas Embarcados e Análise de Dados
 - 🏛️ **Extensão universitária:** Fundação Asimo e Dev-U
 
 ---
